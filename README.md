@@ -37,7 +37,7 @@
 
 2. Navigate to the project directory:
     ```bash
-    cd AI-Trip-Planner
+    cd Trip-planner
     ```
 
 3. Install the dependencies:
