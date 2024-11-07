@@ -32,7 +32,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Kushhhhhhhh/AI-Trip-Planner.git
+    git clone https://github.com/samarth-git77/Trip-planner.git
     ```
 
 2. Navigate to the project directory:
